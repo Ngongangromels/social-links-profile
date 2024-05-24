@@ -10,11 +10,11 @@ export async function getSocialLinksProfilById(socialLinksProfilId: string): Pro
         descriptionJob: "'Front-end developer and avid reader.' ",
         listeReseauSocial: 
             {
-                reseau1: "GitHub",
-                reseau2: "Frontend Mentor",
-                reseau3: "LinkedIn",
-                reseau4: "Twitter",
-                reseau5: "Instagram"
+                gitHub: "GitHub",
+                frontendMentor: "Frontend Mentor",
+                linkedln: "LinkedIn",
+                twitter: "Twitter",
+                instagram: "Instagram"
             }
         
         

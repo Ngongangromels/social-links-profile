@@ -8,9 +8,9 @@ export interface TsocialLinks {
 }
 
 interface Treseau{
-    reseau1: string,
-    reseau2: string,
-    reseau3: string,
-    reseau4: string,
-    reseau5: string
+    gitHub: string,
+    frontendMentor: string,
+    linkedln: string,
+    twitter: string,
+    instagram: string
 }
